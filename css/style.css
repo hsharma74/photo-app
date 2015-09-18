@@ -54,6 +54,7 @@ section#feature {
 	color: #fff;
 	padding: 40px;
 	overflow: auto;
+	height: 450px;
 }
 
 section#feature >  h1 {
@@ -63,8 +64,12 @@ section#feature >  h1 {
 section#feature ul li {
 	font-size: 22px;
 	list-style: none;
-	line-height: 2em;
+	line-height: 1.5em;
 
+}
+
+section#feature .big-logo {
+	margin-top: 30px;
 }
 
 
